@@ -1,4 +1,6 @@
-[![Build Status](https://travis-ci.com/up1/workshop-depoy-microservice-java.svg?branch=master)](https://travis-ci.com/up1/workshop-depoy-microservice-java)
+[My Docker Hub](https://hub.docker.com/u/yupiina)
+
+![Build Status](https://travis-ci.com/up1/workshop-depoy-microservice-java.svg?branch=master)](https://travis-ci.com/up1/workshop-depoy-microservice-java)
 
 # Demo :: Deploy microservices with Docker
 
